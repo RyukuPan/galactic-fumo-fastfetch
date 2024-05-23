@@ -1,5 +1,5 @@
 # galactic-fastfetch
-My personal Fastfetch config file.
+A fastfetch theme for the lovers of Galactic Adventures.
 This is just for timepass and it looks sorta good I guess. So, if you want to use this just copy the files and enjoy.
 
 # Steps for KDE Arch (Other distros using KDE should also be the same)
