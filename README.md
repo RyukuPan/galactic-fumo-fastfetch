@@ -4,7 +4,7 @@ A fastfetch theme for the lovers of Galactic Adventures.
 
 <img src="preview/config_01.png" width="49%" align="left" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" width="49%" height="16px" align="left" />
-<img src="preview/config_02.png" width="49%" align="top" />
+<img src="preview/config_02.png" width="49%" align="bottom" />
 
 # Steps for KDE Arch (Other distros using KDE should also be the same)
 1. Install 'fastfetch' in your machine / OS.
