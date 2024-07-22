@@ -2,7 +2,7 @@
 A fastfetch theme for the lovers of Galactic Adventures.
 # Screenshots
 
-<img src="preview/config.png" width="49%" align="left" />
+<img src="preview/config.png" width="49%" align="center" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" width="49%" height="16px" align="left" />
 
 # Steps for KDE Arch (Other distros using KDE should also be the same)
