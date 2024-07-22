@@ -1,5 +1,5 @@
 # galactic-fastfetch
-A fastfetch theme for the lovers of Galactic Adventures.
+A fastfetch theme for the lovers of Galactic Adventures and the wonderful fumos of touhou.
 # Screenshots
 
 <img src="preview/config.png" width="65%" align="center" />
