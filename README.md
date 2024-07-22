@@ -8,7 +8,7 @@ A fastfetch theme for the lovers of Galactic Adventures and the wonderful fumos 
 # Steps for fastfetch config
 1. Install 'fastfetch' in your distribution
 2. Generate config file by using command - $ fastfetch --gen-config
-3. Install Nerd Fonts and change the Terminal Font to the installed Nerd Font of your liking. I use Meslo myself.
+3. Install Nerd Fonts and change the Terminal Font to the installed Nerd Font of your liking. I use Meslo.
 4. Locate your fastfetch config folder and copy the files of this repo into that folder. Replace the previous config.jsonc with mine.
 
 # remembering:
