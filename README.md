@@ -13,3 +13,6 @@ A fastfetch theme for the lovers of Galactic Adventures and the wonderful fumos 
 
 # remembering:
 don't forget to change the user ("source": "$(find \"/home/USER/.config/fastfetch/\" -name \"*.png\" | sort -R | head -1)") of the config for cirno.png to work
+
+# extra:
+Don't forget to change the Arch Linux logo with the distribution you are using
