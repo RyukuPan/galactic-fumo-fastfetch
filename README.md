@@ -2,7 +2,8 @@
 A fastfetch theme for the lovers of Galactic Adventures and the wonderful fumos of touhou.
 # Screenshots
 
-<img src="preview/config.png" width="65%" align="center" />
+<img src="preview/config.png" width="65%" align="left" />
+<img src="preview/fast-gato.png" width="65%" align="right" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Transparent_Square_Tiles_Texture.png" width="49%" height="16px" align="center" />
 
 # Steps for fastfetch config
