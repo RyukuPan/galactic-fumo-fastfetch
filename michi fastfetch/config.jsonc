@@ -1,0 +1,83 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "~/.config/fastfetch/ascii/gatito",
+        "color":  {
+        "1": "green"
+        },
+        "type": "file",
+        "padding": {
+          "top": 3
+        }
+    },
+    "display": {
+        "separator": "   "
+    },
+    "modules": [
+	"break",
+	"break",
+	{
+            "type": "title",
+            "color":{
+            "user": "red",
+              "at": "green",
+            "host": "blue"
+                   },
+            "format": "\u001b[36m┌──────────────────┤  {6} \u001b[36m󰣘 {7} \u001b[36m󰣙 {8} \u001b[36m󰌏 ├──────────────────┐"
+
+        },
+        "break",
+        {
+             "type": "custom",
+            "format": "             \u001b[31m LOS MICHIS DOMINARAN LA VIA LACTEA  ",
+            },
+
+        {    "type": "os",
+            "key": "┌ os            ",
+            "keyColor": "yellow",
+        },
+        {
+            "type": "kernel",
+            "key": "├ kernel        ",
+            "keyColor": "yellow",
+        },
+         {
+            "type": "de",
+            "key": "├ de            ",
+            "keyColor": "yellow"
+        },
+        {
+            "type": "packages",
+            "key": "├ packages 󰏖     ",
+            "keyColor": "yellow",
+        },
+        {
+            "type": "shell",
+            "key": "├ unix shell    ",
+            "keyColor": "yellow",
+        },
+        {
+            "type": "terminal",
+            "key": "├ terminal      ",
+            "keyColor": "yellow",
+        },
+        {
+            "type": "wm",
+            "format": "{} ({3})",
+            "key": "└ wm 󰉼           ",
+            "keyColor": "33",
+        },
+        "break",
+
+         {
+            "type": "custom",
+            "format": "\u001b[36m└───────────────────────────┤ ᗜˬᗜ ├────────────────────────────┘"
+        },
+        {
+            "type": "custom",
+            "format": "    \u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m  \u001b[38m     \u001b[38m  \u001b[37m  \u001b[36m  \u001b[35m  \u001b[34m  \u001b[33m  \u001b[32m  \u001b[31m  \u001b[90m "
+        },
+        "break",
+        "break",
+    ]
+}
