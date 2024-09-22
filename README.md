@@ -1,8 +1,8 @@
 # galactic-fastfetch
 A fastfetch theme for the lovers of Galactic Adventures and the wonderful fumos of touhou.
-## 📷 Demo Images
+## 📷 preview images
 <details>
-  <summary style="font-size: 18px; font-weight: 600;">Demo Images ✨</summary>
+  <summary style="font-size: 18px; font-weight: 600;">preview images ✨</summary>
 
 <i>Default:</i>
 <br>
